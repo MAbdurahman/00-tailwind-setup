@@ -9,7 +9,7 @@ Clone or Download the repository
 
 Install the dependencies
 
-` npm install or yarn install`
+`npm install`
 
 To watch the CSS files
 (watches the `src/input.css` file for changes)
@@ -19,4 +19,4 @@ To watch the CSS files
 To build the project, run the following command
 (builds to `css/style.css`, which is the final css file)
 
-`npm run build or yarn build`
+`npm run build`
