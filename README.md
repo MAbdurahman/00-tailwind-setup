@@ -14,7 +14,7 @@ Install the dependencies
 To watch the CSS files
 (watches the `src/input.css` file for changes)
 
-`npm run watch or yarn watch`
+`npm run watch`
 
 To build the project, run the following command
 (builds to `css/styles.css`, which is the final css file)
